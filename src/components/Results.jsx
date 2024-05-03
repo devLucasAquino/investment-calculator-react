@@ -11,11 +11,11 @@ export default function Results({ input }){
         <table id="result">
             <thead>
                 <tr>
-                    <th>Year</th>
-                    <th>Investment Value</th>
-                    <th>Interest (Year)</th>
-                    <th>Total Interest</th>
-                    <th>Invested Capital</th>
+                    <th>Ano</th>
+                    <th>Patrimônio</th>
+                    <th>Juros (Ano)</th>
+                    <th>Juros Total</th>
+                    <th>Capital Investido</th>
                 </tr>
             </thead>
             <tbody>
